@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/position" android:showAsAction="ifRoom|withText" android:title="@string/position"></item>
+	
+	<item android:id="@+id/manageAccessPoints" android:showAsAction="ifRoom|withText" android:title="@string/manageAccessPoints"></item><item android:id="@+id/manageMaps" android:showAsAction="always|withText" android:title="@string/manageMaps"></item>
+	<item android:id="@+id/loadSave" android:showAsAction="ifRoom|withText" android:title="@string/loadSave"></item>
+</menu>
+
+
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WLanLocator</string>
+    <string name="position">Positionsbestimmung</string>
+    <string name="newMap">neue Karte hinzufügen</string>
+    <string name="setAccessPoint">AccessPoint definieren</string>
+    <string name="manageAccessPoints">AccessPoints verwalten</string>
+    <string name="manageMaps">Karten verwalten</string>
+    <string name="loadSave">Laden / Speichern</string>
+    <string name="tenm">10 m definieren</string>
+    <string name="north">Norden definieren</string>
+    <string name="centerLocation">Position zentrieren</string>
+    <string name="showAccesspoints">zeige Accesspoints</string>
+    <string name="hints">Meldungen</string>
+    <string name="noMap">Keine Karte zur aktuellen Position gefunden.</string>
+    <string name="noAccesspoint">keine Accessspoints in Reichweite</string>
+    <string name="notEnoughAps">nicht genüged Accesspoints in Reichweite</string>
+    <string name="newAccesspoints">neue Accesspoints in Reichweite</string>
+    <string name="showData">Daten anzeigen</string>
+    <string name="declarePosition">Position angeben</string>
+    <string name="newAcesspoint">Accesspoint setzen</string>
+    <string name="changeAcesspoint">Accesspoint ändern</string>
+    <string name="mapsHeading">Karten</string>
+    <string name="changeMap">Karte ändern</string>
+    <string name="load">laden</string>
+    <string name="save">speichern</string>
+    <string name="selectAccesspoint">Accesspoint auswählen</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="heightinroom">Höhe in Meter im Raum</string>
+    <string name="cancel">abbrechen</string>
+    <string name="noPosition">Die aktuelle Position kann (noch) nicht bestimmt werden.</string>
+    <string name="areaMapName">Name der Karte</string>
+    <string name="areaMap_latitude">Latitude der Karte</string>
+    <string name="areaMap_longitude">Longitude der Karte</string>
+    <string name="areaMap_height">Höhe der Karte über NN</string>
+    <string name="delete">löschen</string>
+    <string name="onemeterscalefactor">Pixel pro meter</string>
+
+</resources>
